@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Black Organization</string>
+
+    <string name="heroes_name">Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Bagus Desna Mukti</string>
+    <string name="email">bagusdm98@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Gin</item>
+        <item>Vodka</item>
+        <item>Vermouth</item>
+        <item>Chianti</item>
+        <item>Korn</item>
+        <item>Kir</item>
+        <item>Bourbon</item>
+        <item>Sherry</item>
+        <item>Rye</item>
+        <item>Pisco</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Gin adalah agen eksekutif tingkat tinggi untuk urusan mengkoordinasikan kesepakatan dan pembunuhan. Gin terkenal sebagai sosok yang cerdas dan mematikan.</item>
+        <item>Vodka adalah sekertaris manajerial dari Black Organization. Ia menjadi tokoh yang kerap kali muncul bersama Gin. Ia selalu terlihat memakai topi dan kacamata. </item>
+        <item>Vermouth merupakan seorang aktris misterius asal amerika. Dia memiliki kemampuan penyamaran luar biasa, bahkan dia mampu mengubah suaranya.</item>
+        <item>Chianti merupakan anggota Black Organization yang berperan sebagai penembak jitu yang terlihat menerima perintah dari Gin. Kepribadiannya sangat berapi-api dan tidak sabaran</item>
+        <item>Korn adalah rekan dari Chianti, ia juga seorang penembak jitu yang menerima perintah Gin. Kemunculannya selalu dengan frasa yang pendek dan patah-patah.</item>
+        <item>Kir merupakan nama yang diberikan organisasi untuknya. Kir aslinya adalah seorang agen CIA. Dia masuk kedalam Black Organization untuk menyelidiki kegiatan ilegal mereka.</item>
+        <item>Bourbon merupakan seorang agen dari Badan Kepolisian Nasional untuk divisi perencanaan keamanan. Sama seperti Kir, ia menjadi anggota Black Organization untuk menyelidikinya.</item>
+        <item>Sherry merupakan ahli biokimia tingkat tinggi untuk organisasi dan bekerja untuk proyek APTX 4869. Namun saat ini tubuhnya telah menyusut karena meminum pil yang ia buat sendiri</item>
+        <item>Rye adalah code name yang diberikan organisasi kepada Shuichi Akai. Ia masuk ke Black Organization dengan nama Dai Moroboshi. Rye sebenarnya adalah anggota FBI yang menyusup ke organisasi.</item>
+        <item>Pisco merupakan agen eksekutif lanjut usia dalam Black Organization. Pisco dibunuh oleh Gin setelah tertangkap kamera sedang melakukan pembunuhan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/gin</item>
+        <item>@drawable/vodka</item>
+        <item>@drawable/vermouth</item>
+        <item>@drawable/chianti</item>
+        <item>@drawable/korn</item>
+        <item>@drawable/kir</item>
+        <item>@drawable/bourbon</item>
+        <item>@drawable/sherry</item>
+        <item>@drawable/rye</item>
+        <item>@drawable/pisco</item>
+    </integer-array>
+
+    <string-array name="data_keterangan">
+        <item>Gin adalah anggota Organisasi Hitam dan antagonis utama dari seri detective conan. Ia sering dipasangkan dalam misi dengan Vodka. Gin adalah agen eksekutif tingkat tinggi, sering memberi anggota lain perintah mereka dan mengawasi misi kelompok. Dia bekerja di divisi pengawasan umum bersama dengan Vodka yang merupakan rekannya.
+            Terlepas dari posisi kepemimpinannya yang tinggi, ia sering turun ke lapangan untuk berpartisipasi dalam misi, menyelesaikan transaksi bisnis, dan membunuh orang. Dari anggota Organisasi Hitam berpangkat tinggi yang ditunjukkan, Gin adalah yang paling setia, dia mengikuti perintah bos paling dekat dan hampir tidak pernah bertindak melawan kepentingan Organisasi yang lebih besar.
+            Gin adalah pembunuh tanpa ampun dan efisien. Dia tidak memiliki penyesalan tentang membunuh atau mengancam rekan satu tim. Sesuai dengan kepribadiannya yang dingin, berbagai emosi Gin yang ditampilkan sejauh ini relatif terbatas. Dengan mengenakan seringai mengancam, dia menikmati berburu pengkhianat, menyaksikan rencana yang dia buat berhasil, dan memojokkan targetnya.
+            Meskipun ia tampaknya puas dengan membunug seseorang secara pribadi, Gin juga puas dengan mengatur kematian target bahkan jika ia tidak menarik pelatuknya sendiri. </item>
+        <item>Vodka adalah anggota Organisasi Hitam yang sering terlihat di sisi Gin. Posisi resminya adalah sekretaris di divisi pengawasan umum, jadi dia menangani sebagian besar penelitian dan informasi untuk duo ini, seperti mengatur pertemuan, dan menyampaikan informasi kepada anggota lain. Vodka sering terlihat menggunakan beberapa transportasi.
+            Vodka memiliki tubuh berotot, dagu lebar membuatnya lebih terlihat seperti anggota mafia. Vodka memakai fedora hitam dengan garis merah di sekitarnya, juga dia memakai pakaian hitam tapi bajunya merah. Vodka sebagian besar terlihat memakai kacamata hitam. Vodka sama kejamnya dengan rekannya Gin. Namun, dia juga lebih santai dan percaya daripada yang terakhir,
+            sehingga membuatnya lebih rentan terhadap jebakan. Sebagai tambahan dia cenderung tidak berkinerja baik di bawah tekanan tanpa bimbingan dari Gin atau karakter lain, seperti yang dicontohkan dalam Reunion with the Black Organization ketika terganggu oleh Gin yang dibius, dia gagal menyadari Shiho (Sherry) melarikan diri dan menghentikannya sebelum terlambat.
+            Namun Vodka dapat melihat detail yang tidak dimiliki Gin.</item>
+        <item>Vermouth adalah seseorang yang sangat misterius karena dia diam-diam menjalani setidaknya dua kehidupan melalui seni penyamaran yaitu aktris Sharon Vineyard dan putrinya, Chris Vineyard. Sebagai aktris Sharon Vineyard, Vermouth mendapatkan banyak ketenaran di Broadway dan film, bahkan memenangkan Oscar. Sekarang Vermouth melayani Organisasi Hitam dengan nama publik Chris Vineyard.
+            Vermouth adalah favorit bos yang memberinya kebebasan. Vermouth juga memiliki hubungan khusus dengan bos yang tidak ingin diketahui oleh organisasi yang lebih besar. Dia juga tampaknya tidak menua selama dua puluh tahun ini. Meskipun dia mengikuti perintah dari bos dan Gin ketika dia bertanggung jawab atas misi, Vermouth sering bertindak sesuai dengan agenda dan keinginannya sendiri,
+            bahkan ketika itu bertentangan dengan kepentingan terbaik Organisasi Hitam. Dia tertutup dan manipulatif, bahkan terhadap anggota Organisasi lainnya. Vermouth yakin dengan kemampuannya, sangat berani,dan seorang ahli dalam memanipulasi situasi untuk keuntungannya. Dia cerdas dan berwawasan luas, dengan benar mencurigai kesetiaan Kir,namun ia berhasil diperdaya oleh Conan.</item>
+        <item>Chianti adalah penembak jitu Organisasi Hitam, ditugaskan di divisi pembunuhan. Dia terampil dengan senapan. Haibara menjelaskan bahwa dia dan Korn adalah penembak jitu yang sangat baik, Pasangannya adalah Korn, dan keduanya sering terlihat bersama dalam misi, sama seperti Gin dan Vodka biasanya terlihat bersama. Chianti biasanya mengenakan setelan kulit hitam dengan kerah.
+            Kelopak mata kirinya memiliki tato sayap kupu-kupu swallowtail. Dia adalah pembunuh liar dan kejam yang suka membunuh. Dia juga sangat tidak sabar, bahkan menolak untuk menghentikan mobilnya ketika ditanya oleh seorang pekerja konstruksi. Keterampilannya dalam menembak ditunjukkan ketika dia dan Korn mampu membunuh seseorang saat berlatih dengan senapan sniping mereka,
+            tetapi dia bukan tandingan Akai, karena dia hanya bisa menembak hingga 600 yard sementara Akai dapat menembak hingga 700 yard atau lebih hingga 1300 yard. Dia mungkin memiliki beberapa keterampilan mengemudi, karena dia selalu mengendarai Dodge Viper birunya.</item>
+        <item>Korn adalah mitra Chianti, dan juga seorang pembunuh terampil, yang ditugaskan di divisi pembunuhan Organisasi Hitam. Dia selalu memakai kacamata tebal dan topi, dengan pakaian yang lebih seperti pakaian militer dibandingkan dengan pakaian yang lebih formal dari anggota lainnya. Meskipun dia kurang sabar dibandingkan Chianti, dia menikmati pembunuhan,
+            dan kecewa ketika dia tidak mendapatkan untuk membunuh. Seperti kebanyakan anggota organisasi, ia memiliki kepribadian yang dingin. Namun, tidak seperti anggota lainnya, ia tampaknya asosial dan jarang berinteraksi dengan anggota lain kecuali diajak bicara. Dia selalu terlihat mengerutkan kening dan terlihat seperti robot. Pidatonya singkat dan penuh jeda,
+            membuat beberapa penggemar berspekulasi bahwa ia mungkin memiliki semacam hambatan bicara. Dia terampil dalam menembak. Dia mampu menembak sampai 550 yard. Tidak diketahui apakah dia bisa menembak pada jarak 600 yard juga, tetapi dia tidak dapat menembak pada jarak 650 yard dan dia juga bukan tandingan Akai yang bisa menembak hingga 700 yard atau lebih hingga 1300 yard.</item>
+        <item>Hidemi Hondou adalah agen CIA yang menyamar yang telah berhasil menyusup ke Organisasi Hitam dengan nama sandi Kir. Setelah bergabung dengan CIA, Hidemi dikirim kembali ke Jepang untuk bekerja dengan ayahnya, yang menyamar di Organisasi Hitam. Misi awalnya adalah membantu perantara, Barney, masuk, karena yang biasanya digunakan ayahnya telah terbunuh.
+            Setelah itu dia seharusnya berpura-pura mati dan meninggalkan organisasi. Tetapi karena kelalaiannya,ayahnya dan Barney harus bunuh diri, dan Hidemi terpaksa tinggal dan melanjutkan misi ayahnya. Bos organisasi terkesan dengan laporan palsunya tentang kematian Ethan Hondou dan memberinya nama sandi Kir segera setelah itu.
+            Meskipun harus mempertahankan penyamarannya di dalam Organisasi Hitam, Hidemi tetap menjadi orang yang penuh kasih sayang dan berusaha untuk melestarikan sebanyak mungkin nyawa. Di antara anggota Organisasi Hitam, dia tampak dingin dan patuh kepada atasannya, tetapi dia bertindak sedikit lebih penyayang daripada yang lain, hal ini menyebabkan Gin curiga padanya.</item>
+        <item>Rei Furuya juga dikenal sebagai Tooru Amuro dan Bourbon adalah seorang penyelidik Perencanaan Keamanan Biro Keamanan Badan Kepolisian Nasional, Divisi Chiyoda yang bekerja menyamar di Organisasi Hitam. Dia adalah seorang agen yang baru-baru ini dikirim yang berspesialisasi dalam deduksi dan pengumpulan intelijen dan sering bekerja dengan Vermouth.
+            Bourbon pertama kali disebutkan ketika Kir melaporkan bahwa anggota Organisasi baru sedang bergerak, berniat untuk menangkap ilmuwan Shiho Miyano yang melarikan diri. Kir melaporkan bahwa Bourbon memiliki keterampilan mengumpulkan informasi yang sangat baik dan wawasan yang tajam. Namun penampilan pertama Bourbon yang sebenarnya adalah ketika menyamar sebagai Akai,
+            untuk menentukan kebenaran kematian Akai Shuichi. Di masa lalu, Rei mulai menyusup ke Organisasi Hitam untuk PSB, dan akhirnya mendapatkan nama sandi Bourbon. Di Organisasi, dia bekerja sebagai agen yang berspesialisasi dalam deduksi dan pengumpulan informasi. Gin bahkan memanggilnya detektif hebat seperti Sherlock Holmes.</item>
+        <item>Shiho Miyano dan kakaknya Akemi Miyano, dilahirkan dalam organisasi kriminal rahasia yang secara informal dikenal sebagai Organisasi Hitam. Ibu dan ayahnya adalah peneliti penting dalam organisasi hitam. Mereka berdua terbunuh ketika Shiho masih sangat muda yang digambarkan oleh anggota lain dari organisasi hitam sebagai kecelakaan.
+            Sejak kecil ia sudah berada dibawah organisasi hinggan akhirnya mengembangkan eksperimental APTX 4869 dari kedua orang tuanya. Setelah saudara perempuannya dibunuh, dia membangkang dari organisasi hitam dan menolak menjalankan perintah sampai dia menerima penjelasan mengapa saudara perempuannya dibunuh.
+            Karena hal tersebut, ia akhirnya dikunci di sebuah ruangan kecil dan menunggu bosnya memutuskan eksekusinya. Sebelum dieksekusi ia berniat bunuh diri menggunakan obat APTX 4869 yang ia sembunyikan sebelumnya. Alih alih mati, tubuhnya malah menyusut, dengan begitu ia akhirnya dapat meloloskan diri melewati jendela kecil.
+            Dia melarikan diri ke rumah Shinichi, tetapi pingsan di tengah hujan di luar rumah Profesor Agasa. Profesor Agasa akhirnya merawatnya dan tinggal bersamanya dengan nama Ai Haibara. Secara alami, bos memerintahkan organisasi untuk melacaknya, membunuhnya, dan menghilangkan orang-orang yang terkait dengannya.</item>
+        <item>Akai Shuichi adalah seorang agen FBI yang merupakan tokoh penting dalam perang melawan geng hitam. Dia pernah menggunakan identitas Dai Moroboshi dan menyusup ke organisasi. Selama waktu ini, ia membentuk musuh dengan Gin dan jatuh cinta dengan Akemi Miyano. Shuichi Akai adalah orang Inggris keturunan Jepang, berasal dari Inggris,
+            dan anggota Biro Investigasi Federal AS yang ditugaskan untuk menangkap Gin di Jepang. Bosnya adalah James Black dan rekannya adalah Jodie Starling. Dia memata-matai organisasi kulit hitam untuk memberikan informasi kepada FBI, menyusup ke mereka dengan nama Dai Moroboshi dan nama kode Rye. Shuichi melihat dirinya dipaksa untuk memutuskan hubungan dengan Jody untuk memfasilitasi yang terakhir,
+            dan kemudian karena dia memiliki perasaan yang tulus untuk Akemi. Kemudian, di organisasi hitam, kamuflasenya secara tidak sengaja diledakkan oleh rekannya André Carmel, dan ketika Akemi dibunuh, dia menyatakan Jean, yang telah membunuhnya, sebagai musuh pribadinya. </item>
+        <item>Pisco dengan nama asli Kenzo Masuyama adalah anggota organisasi hitam yang sangat kaya dan membiayai operasi organisasi hitam, tetapi tidak banyak yang diketahui tentang anggota senior tua ini. Dia adalah ketua sebuah perusahaan mobil. Dia mengenal Atsushi dan Elena Miyano, dan dia telah bertemu Shiho sejak masih bayi, dan telah mendengar banyak tentang penelitiannya.
+            dalam kemunculan pertamanya dia berhasil menjalankan misi untuk membunuh politisi Shigehiko Nomiguchi dalam suatu acara dengan membuatnya terlihat seperti kecelakaan dengan menembak lampu gantung yang berada di tengah ruangan. Meskipun telah mendapatkan bantuan Vermouth, Conan akhirnya mengetahui bahwa ia adalah pembunuhnya. Karena kecerobohannya, akhirnya ia dibunuh oleh Gin dan rumah tersebut dibakar.
+            Sebelum kematiannya, dia menyadari bahwa haibara (yang ikut datang ke tempat tersebut bersama Conan) adalah Sherry. Namun sampai ia dibunuh, ia belum memberitahukan fakta tersebut kepada anggota organisasi yang lain.</item>
+    </string-array>
+</resources>
